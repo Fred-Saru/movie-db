@@ -50,3 +50,7 @@
 .lightText {
     color: #666;
 }
+
+.devLogo {
+    @apply flex items-center justify-center text-5xl text-gray-300 h-5/6;
+}

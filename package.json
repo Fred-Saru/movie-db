@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@splidejs/splide": "^3.3.1",
     "classnames": "^2.3.1",
     "next": "^11.0.0",
     "postcss-flexbugs-fixes": "^5.0.2",

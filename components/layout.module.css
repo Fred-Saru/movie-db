@@ -3,7 +3,7 @@
 }
 
 .content {
-    @apply flex-grow;
+    @apply flex-grow px-12 py-8;
 }
   
 .header {

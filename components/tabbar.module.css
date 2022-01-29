@@ -4,7 +4,7 @@
 }
 
 .tabItem {
-  @apply text-gray-400 hover:text-gray-700 cursor-pointer w-16 h-full; 
+  @apply text-gray-400 hover:text-gray-700 cursor-pointer flex-1 h-full; 
   @apply flex items-center justify-center;
 }
 

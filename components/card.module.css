@@ -19,5 +19,5 @@
 }
 
 .misc {
-    @apply overflow-ellipsis;
+    @apply text-center text-xl px-4 pb-5;
 }

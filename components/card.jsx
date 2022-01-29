@@ -15,8 +15,8 @@ export default function Card({movie}) {
                 </span>
                 <FaRegStar/>
             </div>
-            <a>{movie.original_title}</a>
             <div className={styles.misc}>
+                {movie.original_title}
             </div>
         </div>
     )
